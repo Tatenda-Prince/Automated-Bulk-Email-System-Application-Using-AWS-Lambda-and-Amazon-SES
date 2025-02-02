@@ -321,7 +321,7 @@ Click "Explore table items".
 
 You should see a new entry with the email details, including the `MessageId`, `Sender`, `Recipient`, `Subject`, `Timestamp`, and S3 details.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/87cced51d4142c72783ecb29e859c9120f0923e2/img/Screenshot%202025-02-02%20112103.png)
 
 
 # Congratulations 
