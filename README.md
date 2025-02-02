@@ -56,6 +56,34 @@ Choose create bucket and leave everything as default
 
 1.3.Now that our bucket is successfully created see example, leave the bucket empty becuase lambda will trigger an event when we upload a file.
 
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/6b16c34c57d53057b6d3f3ff3cae17337c4180db/img/Screenshot%202025-02-02%20104947.png)
+
+
+## Step 2: Configure DynamoDB table
+
+
+2.1.Lets Navigate to DynamoDB:
+
+Go to the DynamoDB service in the AWS Management Console.
+
+Click "Create table"
+
+2.2.Configure the Table
+
+We will give our table a name  `EmailLogs`
+
+Partition key: `MessageId` Type "String"
+
+![image_alt]()
+
+
+Click Create Table 
+
+
+
+
+2.3.As you can our table active now see example below-
+
 ![image_alt]()
 
 
