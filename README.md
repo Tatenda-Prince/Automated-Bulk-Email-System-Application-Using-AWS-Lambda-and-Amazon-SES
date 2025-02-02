@@ -102,7 +102,7 @@ Click "Create role".
 
 3.2.Select AWS Lambda as the service that will use this role.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/09c272dafc7aff5a5e1cbd3f9b75111df43ceecb/img/Screenshot%202025-02-02%20105111.png)
 
 
 3.3.Attach Policies:
