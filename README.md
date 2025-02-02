@@ -97,7 +97,7 @@ Click on "Roles" in the left-hand menu.
 
 Click "Create role".
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/ce8f387e5dd4435d8af2cb430b320b4cfc169328/img/Screenshot%202025-02-02%20105048.png)
 
 
 3.2.Select AWS Lambda as the service that will use this role.
