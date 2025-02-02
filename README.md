@@ -148,7 +148,7 @@ Choose the runtime (e.g., Python 3.8).
 
 Under "Permissions", choose the IAM role you created earlier (LambdaSESS3Role).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/59c1864a31c0ddcc3f045f19f07642fd00341b4d/img/Screenshot%202025-02-02%20105350.png)
 
 
 Click "Create function".
@@ -159,6 +159,22 @@ Click "Create function".
 Now head back to your S3 Bucket you created ealier click the "Properties" properties tab
 
 Scroll down till you the "Event Notification" then click create event 
+
+![image_alt]()
+
+create a event name leave everything as default settings
+
+![image_alt]()
+
+
+On destination choose lambda and select our lambda we created earlier
+
+![image_alt]()
+
+click  Save 
+
+
+
 
 
 
