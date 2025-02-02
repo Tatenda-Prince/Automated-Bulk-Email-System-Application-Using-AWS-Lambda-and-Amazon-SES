@@ -143,7 +143,7 @@ Provide a name for your function (e.g., S3ToSESLambda).
 
 Choose the runtime (e.g., Python 3.8).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/2c7a0491cd73f0c7f1442fc295b2010110bf9150/img/Screenshot%202025-02-02%20105331.png)
 
 
 Under "Permissions", choose the IAM role you created earlier (LambdaSESS3Role).
