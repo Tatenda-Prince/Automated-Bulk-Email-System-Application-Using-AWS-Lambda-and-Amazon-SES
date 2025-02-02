@@ -74,7 +74,7 @@ We will give our table a name  `EmailLogs`
 
 Partition key: `MessageId` Type "String"
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/cd4bd85c1dc7fe348f414872ab8c3a97b369a30c/img/Screenshot%202025-02-02%20110447.png)
 
 
 Click Create Table 
