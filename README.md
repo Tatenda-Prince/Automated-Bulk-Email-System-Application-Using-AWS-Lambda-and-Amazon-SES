@@ -127,6 +127,40 @@ Provide a name for the role (e.g., LambdaSESS3Role).
 Click "Create role".
 
 
+## Step 4: Configure a AWS Lambda function
+
+4.1.Navigate to Lambda:
+
+Go to the Lambda service.
+
+Click "Create function".
+
+4.2.Configure Function:
+
+Choose "Author from scratch".
+
+Provide a name for your function (e.g., S3ToSESLambda).
+
+Choose the runtime (e.g., Python 3.8).
+
+![image_alt]()
+
+
+Under "Permissions", choose the IAM role you created earlier (LambdaSESS3Role).
+
+![image_alt]()
+
+
+Click "Create function".
+
+
+4.3.Add Trigger from S3 Bucket
+
+Now head back to your S3 Bucket you created ealier click the "Properties" properties tab
+
+Scroll down till you the "Event Notification" then click create event 
+
+
 
 
 
