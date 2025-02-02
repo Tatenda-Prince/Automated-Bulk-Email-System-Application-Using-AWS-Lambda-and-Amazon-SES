@@ -288,7 +288,48 @@ Click "Verify This Email Address".
 Check your email inbox and click the verification link sent by AWS.
 
 
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/957d640379b74762f62dca2d1c69d3c88052f121/img/Screenshot%202025-02-02%20105821.png)
+
+
+## Step 6: Test the Setup
+
+6.1.Upload a File to S3:
+
+Go to the S3 bucket you created.
+
+Upload a file to the bucket.
+
 ![image_alt]()
+
+
+6.2.Check Email
+
+The recipient email has received an email notification about the new file upload.
+
+![image_alt]()
+
+
+## Step 7:Verify DynamoDB Logs
+
+7.1.Navigate to DynamoDB:
+
+Go to the DynamoDB service.
+
+Click on the `EmailLogs` table.
+
+Click "Explore table items".
+
+You should see a new entry with the email details, including the `MessageId`, `Sender`, `Recipient`, `Subject`, `Timestamp`, and S3 details.
+
+![image_alt]()
+
+
+# Congratulations 
+
+We have successfully set up an AWS project using AWS Lambda,Dynamodb, Amazon SES, and Amazon S3. This setup automatically sends an email notification whenever a new file is uploaded to the S3 bucket.
+
+
+
 
 
 
