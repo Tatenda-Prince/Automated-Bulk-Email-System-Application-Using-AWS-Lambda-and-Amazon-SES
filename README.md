@@ -51,7 +51,7 @@ Access the AWS Management Console and search for Amazon S3.
 Choose create bucket and leave everything as default
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/79d260892808acaa4c5e34a48af62ff6488bd3f9/img/Screenshot%202025-02-02%20104928.png)
 
 
 1.3.Now that our bucket is successfully created see example, leave the bucket empty becuase lambda will trigger an event when we upload a file.
