@@ -306,7 +306,7 @@ Upload a file to the bucket.
 
 The recipient email has received an email notification about the new file upload.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/306266322c09e4b8a78d77950e337260e823e2fc/img/Screenshot%202025-02-02%20111142.png)
 
 
 ## Step 7:Verify DynamoDB Logs
