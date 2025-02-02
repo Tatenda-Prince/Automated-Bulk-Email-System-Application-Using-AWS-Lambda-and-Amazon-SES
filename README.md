@@ -84,7 +84,51 @@ Click Create Table
 
 2.3.As you can our table active now see example below-
 
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/1f04849ec5ebcec56ace78b9fdc39e2cee118a3f/img/Screenshot%202025-02-02%20110526.png)
+
+
+## Step 3: Configure IAM Role for AWS Lambda
+
+3.1.We Navigate to IAM:
+
+Go to the IAM service.
+
+Click on "Roles" in the left-hand menu.
+
+Click "Create role".
+
 ![image_alt]()
+
+
+3.2.Select AWS Lambda as the service that will use this role.
+
+![image_alt]()
+
+
+3.3.Attach Policies:
+
+Attach the following policies:
+
+`AmazonS3FullAccess`
+
+`AmazonSESFullAccess`
+
+`AWSLambdaBasicExecutionRole`
+
+`AmazonDynamoDBFullAccess`
+
+3.4.Review and Create:
+
+Provide a name for the role (e.g., LambdaSESS3Role).
+
+![image_alt]()
+
+
+Click "Create role".
+
+
+
+
 
 
 
