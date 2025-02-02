@@ -160,7 +160,7 @@ Now head back to your S3 Bucket you created ealier click the "Properties" proper
 
 Scroll down till you the "Event Notification" then click create event 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/ae3278ae5eb5d91ad51625a83532274583419180/img/Screenshot%202025-02-02%20110730.png)
 
 create a event name leave everything as default settings
 
