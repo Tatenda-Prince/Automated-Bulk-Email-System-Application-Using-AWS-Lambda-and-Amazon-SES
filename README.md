@@ -121,7 +121,7 @@ Attach the following policies:
 
 Provide a name for the role (e.g., LambdaSESS3Role).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/9477735d55a0698339bbae0f02ddb4d97d196b62/img/Screenshot%202025-02-02%20105213.png)
 
 
 Click "Create role".
