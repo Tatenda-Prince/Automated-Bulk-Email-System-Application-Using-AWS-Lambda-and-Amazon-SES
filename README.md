@@ -164,7 +164,7 @@ Scroll down till you the "Event Notification" then click create event
 
 create a event name leave everything as default settings
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/795ded741ac3145416f1289b086efed2da3ed3e9/img/Screenshot%202025-02-02%20110813.png)
 
 
 On destination choose lambda and select our lambda we created earlier
