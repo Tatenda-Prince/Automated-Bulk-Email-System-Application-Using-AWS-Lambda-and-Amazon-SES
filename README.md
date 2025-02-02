@@ -299,7 +299,7 @@ Go to the S3 bucket you created.
 
 Upload a file to the bucket.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/73a54b908314307964e17bf838ae336caa84d02c/img/Screenshot%202025-02-02%20111049.png)
 
 
 6.2.Check Email
