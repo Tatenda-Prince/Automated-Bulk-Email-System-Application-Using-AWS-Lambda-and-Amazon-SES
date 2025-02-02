@@ -280,7 +280,7 @@ Click "Verify a New Email Address".
 
 Enter the email addresses you used in the Lambda function (both sender and recipient).
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES/blob/31040b5b1733a9daefc0028fcc7f68098f2fc030/img/Screenshot%202025-02-02%20105740.png)
 
 
 Click "Verify This Email Address".
