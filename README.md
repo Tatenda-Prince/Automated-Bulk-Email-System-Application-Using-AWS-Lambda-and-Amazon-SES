@@ -1,4 +1,4 @@
-# Automated-Bulk-Email-System-Application-Using-AWS-Lambda-and-Amazon-SES
+# Automated Bulk Email System with AWS Lambda and Amazon SES
 
 "Sending Bulk Emails"
 
